@@ -1,0 +1,23 @@
+.app{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 0.5fr;
+    grid-template-rows: 0.5fr 3fr 0.5fr;
+    grid-template-areas: "home home" "main aside" "footer footer";
+}
+.home{
+    background-color: aqua;
+    grid-area: home;
+}
+.main{
+    background-color: blueviolet;
+    grid-area: main;
+}
+.aside{
+    background-color: burlywood;
+    grid-area: aside;
+}
+.footer{
+    background-color: coral;
+    grid-area: footer;
+}

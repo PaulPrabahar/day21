@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot teasting-sum 1`] = `9`;
+
+exports[`snapshot teasting-sum 2`] = `9`;
+
+exports[`snapshot teasting-sum 3`] = `9`;
+
+exports[`snapshot teasting-sum 4`] = `9`;
+
+exports[`snapshot teasting-sum 5`] = `NaN`;
+
+exports[`snapshot testing-sum 1`] = `9`;
+
+exports[`snapshot testing-sum 2`] = `3`;
+
+exports[`snapshot testing-sum 3`] = `8`;
+
+exports[`snapshot testing-sum 4`] = `9`;
+
+exports[`snapshot testing-sum 5`] = `9`;

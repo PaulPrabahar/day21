@@ -1,0 +1,57 @@
+.Submit{
+    background-color: aqua;
+    padding: 100px;
+}
+
+.Form-container{
+    background-color: burlywood;
+    padding: 30px;
+}
+
+.header{
+    color: mediumspringgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.email-container{
+    background-color: burlywood;
+    padding: 50px;
+}
+
+.password-container{
+    background-color: burlywood;
+    padding: 50px;
+}
+
+.country-container{
+    background-color: burlywood;
+    padding: 50px;
+}
+
+.check-container{
+    background-color: blueviolet;
+    padding: 50px;
+}
+
+input{
+    height: 20px;
+    width: 200px;
+    cursor: pointer;
+    outline-color: blue;
+}
+
+textarea{
+    height: 20px;
+    width: 200px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+     height: 30px;
+    width: 50px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+}
